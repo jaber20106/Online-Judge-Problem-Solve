@@ -1,37 +1,35 @@
-#include <iostream>
-#include <climits> // for INT_MAX
+#include <bits/stdc++.h>
 using namespace std;
 
-bool isPalindrome(int x) {
-    if (x < 0) return false;
+int main(){
+    int n;
+    cin >> n;
 
-    int original = x;
-    int reversed = 0;
-
-    while (x != 0) {
-        int digit = x % 10;
-
-        // Overflow check
-        if (reversed > (INT_MAX - digit) / 10) {
-            return false;
-        }
-
-        reversed = reversed * 10 + digit;
-        x /= 10;
+    if(n < 0){
+        cout << "false";
+        return 0;
     }
 
-    return original == reversed;
+    int temp = n;
+    int sum = 0;
+
+    while(temp != 0){
+    int r = temp % 10;
+
+    if (sum > (INT_MAX - r) / 10) {
+        cout << "false";
+        return 0;
+    }
+
+    sum = sum * 10 + r;
+    temp = temp / 10;
 }
 
-int main() {
-    int x;
-    cout << "Enter a number: ";
-    cin >> x;
 
-    if (isPalindrome(x)) {
-        cout << "true" << endl;
+    if(sum == n){
+        cout << "true"<<endl;
     } else {
-        cout << "false" << endl;
+        cout << "false"<<endl;
     }
 
     return 0;
