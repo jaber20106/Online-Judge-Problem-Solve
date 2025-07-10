@@ -7,9 +7,10 @@ int main(){
     
     int a,b;
     cin>>a>>b;
-    int x = a + b;
-    int y = a * b;
-    int z = x + y;
+
+    pair<int,int> p(a,b);
+    int z = (p.first + p.second) + (p.first * p.second);
+
     if(z == 111){
         cout<<"YES"<<endl;
     }
