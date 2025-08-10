@@ -15,7 +15,8 @@ int main() {
         cin >> x;
 
         
-        int low = 0, high = n - 1;
+        int low = 0;
+        int high = n - 1;
         bool found = 0;
 
         while (low <= high) {
