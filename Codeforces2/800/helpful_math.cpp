@@ -1,5 +1,5 @@
 #include <iostream>
-#include <algorithm> // reverse() function এর জন্য
+#include <algorithm>
 using namespace std;
 
 int main() {
