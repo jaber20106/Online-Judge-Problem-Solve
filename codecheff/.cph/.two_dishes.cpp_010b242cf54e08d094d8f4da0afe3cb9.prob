@@ -1,0 +1,1 @@
+{"name":"Local: two_dishes","url":"d:\\Online judge Problem Solve\\codecheff\\two_dishes.cpp","tests":[{"id":1753896354513,"input":"4\n2 1 2 1\n3 2 2 2\n4 2 6 3\n3 1 3 1\n","output":"YES\nNO\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Online judge Problem Solve\\codecheff\\two_dishes.cpp","group":"local","local":true}

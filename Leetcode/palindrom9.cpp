@@ -16,6 +16,7 @@ int main(){
     while(temp != 0){
     int r = temp % 10;
 
+    // Overflow Check.
     if (sum > (INT_MAX - r) / 10) {
         cout << "false";
         return 0;

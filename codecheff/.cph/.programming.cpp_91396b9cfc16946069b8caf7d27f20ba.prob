@@ -1,0 +1,1 @@
+{"name":"Local: programming","url":"d:\\Online judge Problem Solve\\codecheff\\programming.cpp","tests":[{"id":1754160527749,"input":"3\n1 2 2 1 3 4\n3 4 2 1 4 3\n1 2 1 3 2 4","output":"1\n2\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Online judge Problem Solve\\codecheff\\programming.cpp","group":"local","local":true}
