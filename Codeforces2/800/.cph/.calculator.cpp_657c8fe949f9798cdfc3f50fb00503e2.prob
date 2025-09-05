@@ -1,0 +1,1 @@
+{"name":"Local: calculator","url":"d:\\Online judge Problem Solve\\Codeforces2\\800\\calculator.cpp","tests":[{"id":1756836289781,"input":"5 10\n","output":"5 + 10 = 15\n5 * 10 = 50\n5 - 10 = -5\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Online judge Problem Solve\\Codeforces2\\800\\calculator.cpp","group":"local","local":true}
