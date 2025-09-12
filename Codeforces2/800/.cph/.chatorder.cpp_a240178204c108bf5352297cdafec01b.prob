@@ -1,0 +1,1 @@
+{"name":"Local: chatorder","url":"d:\\Online judge Problem Solve\\Codeforces2\\800\\chatorder.cpp","tests":[{"id":1757682967905,"input":"4\nalex\nivan\nroman\nivan\n","output":"ivan\nroman\nalex\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Online judge Problem Solve\\Codeforces2\\800\\chatorder.cpp","group":"local","local":true}

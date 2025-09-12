@@ -1,15 +1,19 @@
-#include<bits/stdc++.h>
-#include<string>
-#include<iostream>
+#include <bits/stdc++.h>
 using namespace std;
 
-int main(){
-    
-    int n;
-    cin>>n;
-    for(int i = 1; i <= n; i++){
-        if(i % 2 == 0) cout<<i<<endl;
+int main() {
+    int N;
+    cin >> N;
+
+    bool found = false;
+    for (int i = 2; i <= N; i += 2) {
+        cout << i << "\n";
+        found = true;
     }
-    
+
+    if (!found) {
+        cout << -1 << "\n";
+    }
+
     return 0;
 }
