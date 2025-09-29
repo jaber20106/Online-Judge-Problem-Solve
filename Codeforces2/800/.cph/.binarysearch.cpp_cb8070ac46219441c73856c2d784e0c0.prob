@@ -1,0 +1,1 @@
+{"name":"Local: binarysearch","url":"d:\\Online judge Problem Solve\\Codeforces2\\800\\binarysearch.cpp","tests":[{"id":1758982088568,"input":"5 3\n1 5 4 3 2\n5\n3\n6\n","output":"found\nfound\nnot found\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Online judge Problem Solve\\Codeforces2\\800\\binarysearch.cpp","group":"local","local":true}
