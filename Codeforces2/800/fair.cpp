@@ -25,5 +25,3 @@ int main(){
     
     return 0;
 }
-//
-//x == v[2] || x == v[3]
