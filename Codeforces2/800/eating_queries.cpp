@@ -29,7 +29,6 @@ void solve(){
     sort(v.begin(), v.end());
     reverse(v.begin(), v.end());
 
-
     // convert prefix sum
     for(int i = 1; i < n; i++){
         v[i] = v [i] + v[i-1];
@@ -52,6 +51,5 @@ int main(){
     while(t--){
         solve();
     }
-    
     return 0;
 }
