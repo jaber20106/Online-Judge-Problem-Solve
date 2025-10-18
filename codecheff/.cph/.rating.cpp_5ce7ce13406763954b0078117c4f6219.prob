@@ -1,0 +1,1 @@
+{"name":"Local: rating","url":"d:\\Online judge Problem Solve\\codecheff\\rating.cpp","tests":[{"id":1760362971938,"input":"5\n1300 1500\n1201 1402\n300 4000\n723 805\n1330 512","output":"YES\nNO\nNO\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Online judge Problem Solve\\codecheff\\rating.cpp","group":"local","local":true}
