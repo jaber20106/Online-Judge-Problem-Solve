@@ -1,0 +1,1 @@
+{"name":"Local: games","url":"d:\\Online judge Problem Solve\\Codeforces2\\800\\games.cpp","tests":[{"id":1762785831476,"input":"6\n1\n3\n5\n100\n999\n1000\n","output":"First\nSecond\nFirst\nFirst\nSecond\nFirst\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Online judge Problem Solve\\Codeforces2\\800\\games.cpp","group":"local","local":true}
